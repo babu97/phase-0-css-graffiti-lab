@@ -1,1 +1,25 @@
 /* write your override styles here */
+#wall.tag-1{
+    display: none;
+    z-index: 10;
+    position: relative;
+    width: auto;
+    height: 400px;
+    box-shadow: none;
+    border: none;
+    border-bottom: none;
+    background-color: beige;
+    background: none;
+    background-image: none;
+    margin-top: 16px;
+    margin-left: 23px;
+    margin-bottom: 17px;
+    margin-right: 22px;
+
+    
+
+}
+
+
+
+
